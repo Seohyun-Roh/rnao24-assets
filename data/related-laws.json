@@ -1,6 +1,14 @@
 [
   {
-    "id": "1774684067537",
+    "id": "1",
+    "title": "24년 사업계획서",
+    "date": "2024.10.18",
+    "filename": "business_plan_2024.pdf",
+    "path": "related-laws/business_plan_2024.pdf",
+    "originalDownloadName": "사회적협동조합 우선구매24 (24년 사업계획서).pdf"
+  },
+  {
+    "id": "2",
     "title": "2022년 4월 20일 개정 정관",
     "date": "2024.10.18",
     "filename": "amended_articles_of_association_2022-04-20.pdf",
@@ -8,7 +16,7 @@
     "originalDownloadName": "법인_2022년 4월 20일 개정 정관.pdf"
   },
   {
-    "id": "1774684071496",
+    "id": "3",
     "title": "법인 운영규약",
     "date": "2024.10.18",
     "filename": "corporate_operating_regulations.pdf",
